@@ -7,49 +7,49 @@
 ## Pages
 
 ### בית
-https://ad-f8832173.zappy5.app
+https://example.com
 סוכנות תיווך מובילה עם מבחר דירות למכירה ולהשכרה. גלו את הבית הבא שלכם עוד היום עם ליווי מקצועי, שיווק חכם ותוצאות מהירות בשטח.
 
 ### שירותי שיווק
-https://ad-f8832173.zappy5.app/marketing-services
+https://example.com/marketing-services
 מקסמים את החשיפה של הנכס שלכם עם אסטרטגיות שיווק מתקדמות, צילומים מקצועיים ופרסום ממוקד. כך מוכרים ומשכירים מהר יותר ובמחיר הטוב ביותר.
 
 ### אודות
-https://ad-f8832173.zappy5.app/about
+https://example.com/about
 בואו להכיר את הצוות שמאחורי העסקאות המוצלחות. ניסיון עשיר, שקיפות מלאה ומחויבות אמיתית למצוא עבורכם את ההזדמנות הנדל״נית הבאה.
 
 ### צור קשר
-https://ad-f8832173.zappy5.app/contact
+https://example.com/contact
 מחפשים דירה או רוצים לשווק נכס? השאירו פרטים ונחזור אליכם עם הצעות מותאמות אישית. הצעד הראשון לעסקה מוצלחת מתחיל כאן.
 
 ### Products
-https://ad-f8832173.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - AD נכסים
 
 ### Product Detail
-https://ad-f8832173.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - AD נכסים
 
 ### Category
-https://ad-f8832173.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - AD נכסים
 
 ### תודה רבה | AD נכסים
-https://ad-f8832173.zappy5.app/thank-you
+https://example.com/thank-you
 תודה שפניתם ל-AD נכסים. פנייתכם התקבלה בהצלחה וסוכן נדל״ן מטעמנו יחזור אליכם בהקדם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://ad-f8832173.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://ad-f8832173.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://ad-f8832173.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -79,8 +79,8 @@ Real Estate
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://ad-f8832173.zappy5.app/sitemap.xml
-- Robots: https://ad-f8832173.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://ad-f8832173.zappy5.app/llms-full.txt
-- Products (JSON): https://ad-f8832173.zappy5.app/products.json
-- Products (Google Merchant RSS): https://ad-f8832173.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml

@@ -2,13 +2,13 @@
 
 A real estate brokerage agency focused on apartment listings and property marketing. The website will serve as a showcase platform for available properties, helping buyers and renters find their next home while generating leads for the agency.
 
-Source: https://ad-f8832173.zappy5.app
+Source: https://example.com
 
 ---
 
 ## הנכס המושלם מחכה לך — AD נכסים
 
-URL: https://ad-f8832173.zappy5.app
+URL: https://example.com
 Description: סוכנות תיווך מובילה עם מבחר דירות למכירה ולהשכרה. גלו את הבית הבא שלכם עוד היום עם ליווי מקצועי, שיווק חכם ותוצאות מהירות בשטח.
 
 הנכס המושלם מחכה לך — AD נכסים
@@ -512,7 +512,7 @@ Description: סוכנות תיווך מובילה עם מבחר דירות למ�
 
 ## שיווק נדל״ן שמביא תוצאות — AD נכסים
 
-URL: https://ad-f8832173.zappy5.app/marketing-services
+URL: https://example.com/marketing-services
 Description: מקסמים את החשיפה של הנכס שלכם עם אסטרטגיות שיווק מתקדמות, צילומים מקצועיים ופרסום ממוקד. כך מוכרים ומשכירים מהר יותר ובמחיר הטוב ביותר.
 
 שיווק נדל״ן שמביא תוצאות — AD נכסים
@@ -955,7 +955,7 @@ Description: מקסמים את החשיפה של הנכס שלכם עם אסטר
 
 ## הסוכנות שמכירה כל פינה — AD נכסים
 
-URL: https://ad-f8832173.zappy5.app/about
+URL: https://example.com/about
 Description: בואו להכיר את הצוות שמאחורי העסקאות המוצלחות. ניסיון עשיר, שקיפות מלאה ומחויבות אמיתית למצוא עבורכם את ההזדמנות הנדל״נית הבאה.
 
 הסוכנות שמכירה כל פינה — AD נכסים
@@ -1414,7 +1414,7 @@ AD נכסים מובילה את שוק הנדל"ן בגישה המשלבת יו�
 
 ## בואו נתחיל לחפש ביחד — AD נכסים
 
-URL: https://ad-f8832173.zappy5.app/contact
+URL: https://example.com/contact
 Description: מחפשים דירה או רוצים לשווק נכס? השאירו פרטים ונחזור אליכם עם הצעות מותאמות אישית. הצעד הראשון לעסקה מוצלחת מתחיל כאן.
 
 בואו נתחיל לחפש ביחד — AD נכסים
@@ -1831,7 +1831,7 @@ Description: מחפשים דירה או רוצים לשווק נכס? השאיר
 
 ## מוצרים
 
-URL: https://ad-f8832173.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - AD נכסים
 
 מוצרים - AD נכסים
@@ -2197,7 +2197,7 @@ Description: המוצרים שלנו - AD נכסים
 
 ## פרטי המוצר
 
-URL: https://ad-f8832173.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - AD נכסים
 
 פרטי המוצר - AD נכסים
@@ -2407,7 +2407,7 @@ Description: פרטי המוצר - AD נכסים
 
 ## מוצרים
 
-URL: https://ad-f8832173.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - AD נכסים
 
 מוצרים - AD נכסים
@@ -2641,7 +2641,7 @@ Description: מוצרים - AD נכסים
 
 ## מדיניות פרטיות
 
-URL: https://ad-f8832173.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -2917,7 +2917,7 @@ AD נכסים ("החברה", "אנו", "שלנו") מחויבת להגן על פ
 
 ## הצהרת נגישות
 
-URL: https://ad-f8832173.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -3202,7 +3202,7 @@ AD נכסים מחויבת להנגיש את השירותים לכלל הציב�
 
 ## תנאי שימוש
 
-URL: https://ad-f8832173.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -3506,7 +3506,7 @@ AD נכסים מספקת Real Estate דרך האתר. השירותים כפופ�
 
 ## תודה רבה | AD נכסים
 
-URL: https://ad-f8832173.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: תודה שפניתם ל-AD נכסים. פנייתכם התקבלה בהצלחה וסוכן נדל״ן מטעמנו יחזור אליכם בהקדם.
 
 תודה רבה | AD נכסים
