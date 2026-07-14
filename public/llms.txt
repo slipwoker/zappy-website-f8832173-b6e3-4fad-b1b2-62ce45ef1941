@@ -1,0 +1,86 @@
+# AD נכסים — Generative Engine Optimization Map
+
+> A real estate brokerage agency focused on apartment listings and property marketing. The website will serve as a showcase platform for available properties, helping buyers and renters find their next home while generating leads for the agency.
+
+---
+
+## Pages
+
+### בית
+https://ad-f8832173.zappy5.app
+סוכנות תיווך מובילה עם מבחר דירות למכירה ולהשכרה. גלו את הבית הבא שלכם עוד היום עם ליווי מקצועי, שיווק חכם ותוצאות מהירות בשטח.
+
+### שירותי שיווק
+https://ad-f8832173.zappy5.app/marketing-services
+מקסמים את החשיפה של הנכס שלכם עם אסטרטגיות שיווק מתקדמות, צילומים מקצועיים ופרסום ממוקד. כך מוכרים ומשכירים מהר יותר ובמחיר הטוב ביותר.
+
+### אודות
+https://ad-f8832173.zappy5.app/about
+בואו להכיר את הצוות שמאחורי העסקאות המוצלחות. ניסיון עשיר, שקיפות מלאה ומחויבות אמיתית למצוא עבורכם את ההזדמנות הנדל״נית הבאה.
+
+### צור קשר
+https://ad-f8832173.zappy5.app/contact
+מחפשים דירה או רוצים לשווק נכס? השאירו פרטים ונחזור אליכם עם הצעות מותאמות אישית. הצעד הראשון לעסקה מוצלחת מתחיל כאן.
+
+### Products
+https://ad-f8832173.zappy5.app/products
+המוצרים שלנו - AD נכסים
+
+### Product Detail
+https://ad-f8832173.zappy5.app/product/:slug
+פרטי המוצר - AD נכסים
+
+### Category
+https://ad-f8832173.zappy5.app/category/:slug
+מוצרים - AD נכסים
+
+### תודה רבה | AD נכסים
+https://ad-f8832173.zappy5.app/thank-you
+תודה שפניתם ל-AD נכסים. פנייתכם התקבלה בהצלחה וסוכן נדל״ן מטעמנו יחזור אליכם בהקדם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://ad-f8832173.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://ad-f8832173.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://ad-f8832173.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About AD נכסים
+A real estate brokerage agency focused on apartment listings and property marketing. The website will serve as a showcase platform for available properties, helping buyers and renters find their next home while generating leads for the agency.
+
+## Target Audience
+- רוכשי ומוכרי דירות
+- רוכשי דירה ראשונה
+- משקיעים בנדל"ן
+- מחפשי נכסים יוקרתיים
+- מוכרי נכסים
+
+## Industry
+Real Estate
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://ad-f8832173.zappy5.app/sitemap.xml
+- Robots: https://ad-f8832173.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://ad-f8832173.zappy5.app/llms-full.txt
+- Products (JSON): https://ad-f8832173.zappy5.app/products.json
+- Products (Google Merchant RSS): https://ad-f8832173.zappy5.app/product-feed.xml
